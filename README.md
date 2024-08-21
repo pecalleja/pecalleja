@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am a Python developer with more than 6 years of experience working in backend applications and tooling. I have a solid background in telecommunications systems and extensive experience in IT operations across different industries and Cloud Service Providers. I possess a wide range of skills and I can be very versatile. I am interested in topics like design patterns, software architecture, and large-scale applications.
-I am enthusiastic and like to work on new projects that put my skills to the test. I love studying and learning new things. My core values are transparency and commitment to getting things done.
+I'm a Python developer with over six years of experience building backend applications and tooling. I've got a solid background in telecom systems and plenty of experience in IT operations across different industries and cloud providers. My skills are pretty broad, so I can adapt to whatever comes my way.
+I'm always excited to dive into new projects that push my limits. I love learning and keeping up with the latest tech. For me, transparency and getting things done are what it's all about.
 
 [CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941)
 <!--
