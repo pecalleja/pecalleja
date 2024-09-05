@@ -3,7 +3,7 @@
 I'm a Python developer with over six years of experience building backend applications and tooling. I've got a solid background in telecom systems and plenty of experience in IT operations across different industries and cloud providers. My skills are pretty broad, so I can adapt to whatever comes my way.
 I'm always excited to dive into new projects that push my limits. I love learning and keeping up with the latest tech. For me, transparency and getting things done are what it's all about.
 
-[CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941)
+[CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
