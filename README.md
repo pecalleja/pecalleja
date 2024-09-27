@@ -1,7 +1,9 @@
 ## 👋 Hi there 
 
-I'm a Python developer with over six years of experience building backend applications and tooling. I've got a solid background in telecom systems and plenty of experience in IT operations across different industries and cloud providers. My skills are pretty broad, so I can adapt to whatever comes my way.
-I'm always excited to dive into new projects that push my limits. I love learning and keeping up with the latest tech. For me, transparency and getting things done are what it's all about.
+I'm a software developer with hands-on experience creating backend applications and automation tools for cloud environments. 
+I have a solid foundation in computer networks and IT operations across various industries.
+I specialize in cloud architecture, RESTful APIs, microservices, monolithic, and event-driven systems. 
+I'm a lifelong learner who believes there's always more to discover in the world of coding, and I’m currently working to improve my algorithms and design pattern skills.
 
 [CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
 
