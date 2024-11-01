@@ -3,7 +3,7 @@
 I'm a Software Developer and DevOps Engineer with hands-on experience creating backend applications and automation tools for cloud environments. 
 I have a solid foundation in computer networks and IT operations across various industries.
 I specialize in cloud architecture, RESTful APIs, microservices, monolithic, and event-driven systems. 
-I'm a lifelong learner who believes there's always more to discover in the world of coding, and I’m currently working to improve my algorithms and design pattern skills.
+I'm a lifelong learner who believes there's always more to discover in the world of coding, and I’m currently working to improve my algorithms and design pattern skills while practicing the [Chef Style DevOps Kung fu](https://kungfu.chef.io/).
 
 [CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
 
