@@ -5,12 +5,13 @@ I have a solid foundation in computer networks and IT operations across various 
 Likewise, I specialize in cloud architecture, RESTful APIs, microservices, monolithic, and event-driven systems. 
 I'm a lifelong learner who believes there's always more to discover in the world of coding, and I’m currently working to improve my algorithms and design pattern skills while practicing the [Chef Style DevOps Kung fu](https://kungfu.chef.io/).
 
-[CodeSignal Profile](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
+[Codesignal Learn](https://learn.codesignal.com/profile/clt7k8yfg003jecafa0vp8ol1) | [CodeSignal Practice](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -25,6 +26,10 @@ I'm a lifelong learner who believes there's always more to discover in the world
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-DevOps?logo=chef&style=for-the-badge&logoColor=white)
+
 
 <!--
 **pecalleja/pecalleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
