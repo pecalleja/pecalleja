@@ -5,7 +5,7 @@ I have a solid foundation in computer networks and IT operations across various 
 Likewise, I specialize in cloud architecture, RESTful APIs, microservices, monolithic, and event-driven systems. 
 I'm a lifelong learner who believes there's always more to discover in the world of coding, and I’m currently working to improve my algorithms and design pattern skills while practicing the [Chef Style DevOps Kung fu](https://kungfu.chef.io/).
 
-[Codesignal Learn](https://learn.codesignal.com/profile/clt7k8yfg003jecafa0vp8ol1) | [CodeSignal Practice](https://app.codesignal.com/profile/pecalleja/overview) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
+[Codesignal Learn](https://learn.codesignal.com/profile/clt7k8yfg003jecafa0vp8ol1) | [Hyperskill Profile](https://hyperskill.org/profile/55190941) | [LeetCode Profile](https://leetcode.com/u/pecalleja/)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
